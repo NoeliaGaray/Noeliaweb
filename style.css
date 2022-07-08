@@ -7,38 +7,37 @@ h1 {
   font: italic bold 50px Georgia, Serif;
   text-shadow: -3px 2px 0 #fa709a, -6px 3px 0 #f5576c;
   color: #fcb69f;
-  margin: 0 auto;
   font-weight: 700;
   border-radius: 25px;
   background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 150%);
   padding: 20px;
-  width: 800px;
+  width: 95%;
   height: 60px;
 }
 p {
+  text-align: justify;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   color: #d46a6a;
 }
 
-ul,
-ol {
+.bloque1 {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   list-style: none;
   border-radius: 25px;
   background: #fcb69f;
-  padding: 20px;
-  width: 150px;
-  height: 80px;
-}
-ul li {
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  width: 50%;
   color: #ffecd2;
   text-shadow: 2px 2px 2px #d46a6a;
-}
-ol li {
   text-shadow: 2px 2px 2px #d46a6a;
   color: #ffecd2;
 }
-
+ul,
+ol {
+  list-style-type: none;
+}
 .galeria {
   height: calc(300px + 3em);
   width: 260px;
