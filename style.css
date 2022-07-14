@@ -123,6 +123,7 @@ ul,
 ol {
   list-style-type: none;
 }
+
 .galeria {
   height: calc(300px + 3em);
   width: 260px;
