@@ -29,7 +29,7 @@ p {
   color: #dd7070;
 }
 
-.bloque1 {
+.bloque {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 1.3em;
   list-style: none;
@@ -45,52 +45,7 @@ p {
   text-shadow: 2px 2px 2px #d46a6a;
   color: #ffecd2;
 }
-.bloque2 {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 1.3em;
-  border-radius: 25px;
-  background: #fcb69f;
-  padding-top: 1.25em;
-  padding-left: 1.25em;
-  padding-right: 1.25em;
-  padding-bottom: 1.25em;
-  width: 50%;
-  color: #ffecd2;
-  text-shadow: 2px 2px 2px #d46a6a;
-  color: #ffecd2;
-}
 
-.bloque3 {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 1.3em;
-  border-radius: 25px;
-  background: #fcb69f;
-  padding-top: 1.25em;
-  padding-left: 1.25em;
-  padding-right: 1.25em;
-  padding-bottom: 1.25em;
-  width: 50%;
-  color: #ffecd2;
-  text-shadow: 2px 2px 2px #fcb69f;
-  text-shadow: 2px 2px 2px #d46a6a;
-  color: #ffecd2;
-}
-
-.bloque4 {
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  font-size: 1.3em;
-  border-radius: 25px;
-  background: #fcb69f;
-  padding-top: 1.25em;
-  padding-left: 1.25em;
-  padding-right: 1.25em;
-  padding-bottom: 1.25em;
-  width: 50%;
-  color: #ffecd2;
-  text-shadow: 2px 2px 2px #fcb69f;
-  text-shadow: 2px 2px 2px #d46a6a;
-  color: #ffecd2;
-}
 ul,
 ol {
   list-style-type: none;
